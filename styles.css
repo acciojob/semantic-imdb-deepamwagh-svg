@@ -35,6 +35,20 @@ nav a {
     border-radius: 8px;
 }
 
+details {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+summary {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
 aside {
     width: 80%;
     margin: 20px auto;
